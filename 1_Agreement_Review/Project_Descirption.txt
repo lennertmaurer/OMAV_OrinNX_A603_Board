@@ -1,0 +1,22 @@
+I have a new order! This time a lot simpler than the power board (hopefully).
+
+- We have a new Jetson Carrier Board (https://www.seeedstudio.com/A603-Carrier-Board-for-Jetson-Orin-NX-Nano-p-5635.html)
+
+- For its pinheader we would like to make a small PCB that has the following features:
+o BMI088 IMU integrated
+o Nice connectors for I2C, SPI, GPIOs
+o The carrier board has a USB connection that is accessible via a 20-pin ribbon cable. We would like to grind this onto the PCB and then make a JST GH connector out of it (for the connection to the power board)
+o Possibly, if there is space: a 3.3V button battery with a short connector so that the clock on the carrier board maintains the status.
+So apart from the IMU, practically no active components are needed, and voltages are also available directly from the carrier board in 3.3V and 5V.
+
+In the attached PDF I have sketched the whole thing (PCB_Sketch.pdf), just with pin connections etc. Together with the Carrier Board Datasheet this should be reasonably complete.
+
+Miscellaneous:
+- PCB should be able to be screwed well to the carrier, hence the strange shape
+- For vibration damping: A thick PCB if possible
+- Design should be as minimal, simple and straightforward as possible so that it can be easily adapted in the future
+- Silkscreen important:
+o IMU orientation (coordinate system)
+o IMU position to a reference point (e.g. a screw)
+o Label pins on the plugs
+
