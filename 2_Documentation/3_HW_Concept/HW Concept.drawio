@@ -1,10 +1,10 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" modified="2024-11-23T13:51:57.665Z" version="22.1.2" etag="eOJG6F2tSHSQu0zoe_TL" type="device">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
   <diagram name="Seite-1" id="wBmc9Wb5vL5zebEa-REE">
-    <mxGraphModel dx="1025" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="957" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3-U5LCugHPh-dIs5eWnf-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3-U5LCugHPh-dIs5eWnf-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="120" width="170" height="330" as="geometry" />
         </mxCell>
         <mxCell id="QrvdLahfiG83trktpzz3-72" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Hardware Concept AllegroHand_FSR_Board&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -105,7 +105,7 @@
         <mxCell id="apikvBoegn-0U-0LGKsi-2" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Voltage Follower&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;hr style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;LTC6269&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="416" y="249.39999999999998" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="3-U5LCugHPh-dIs5eWnf-10" value="&lt;p style=&quot;line-height: 70%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;20x&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3-U5LCugHPh-dIs5eWnf-10" value="&lt;p style=&quot;line-height: 70%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;20x&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="106" width="40" height="10" as="geometry" />
         </mxCell>
       </root>
